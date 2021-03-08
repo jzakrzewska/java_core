@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cc-battleship" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/embroidery-python-jzakrzewska" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitland" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/keymaker-python-jzakrzewska" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roguelike-game-python-JoannaPia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tictactoe/tic-tac-toe-python-jzakrzewska" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/true-detective-python-jzakrzewska" vcs="Git" />
+  </component>
+</project>
